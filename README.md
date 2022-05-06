@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janu-rangde
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently using Flutter
 - 📫 reach me @ janugandhi@rangde.in
 
 <!---
